@@ -1,1 +1,5 @@
 # finalyearproject
+NAME       : MANOSIRANJEEVI.A
+ROLLNUMBER : 1722KA27
+CLASS      : 3RD .BSC.Cs -'A'
+TITLE      :DIGITAL MEDIA PLAYER
